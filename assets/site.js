@@ -1,7 +1,7 @@
 // Shared header/footer, language switch (en/ro/ru) and the releases list.
 const SITE = {
   supportEmail: '', // fill in to show an e-mail button on Support
-  issues: 'https://github.com/MrFail/sonvy-site/issues/new',
+  issues: 'https://github.com/MrFail/sonvy/issues/new',
   appStore: '',     // App Store link once published
 };
 
